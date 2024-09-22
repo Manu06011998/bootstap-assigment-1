@@ -1,0 +1,85 @@
+.dropimg-size img {
+    height: 35px;
+}
+
+.fontnav-br {
+    font-size: 13px;
+}
+
+.nav-img img {
+    height: 30px;
+}
+
+.downld-btnst:hover {
+    background-color: blue;
+    color: white;
+}
+
+.nav-item:hover .dropdown-menu {
+    display: block;
+}
+
+.showcase-img img {
+    height: 50px;
+}
+
+.sectionfr-hvbtn:hover {
+    background-color: rgb(235, 235, 235);
+}
+
+.subsectionfr-hvbtn {
+    background-color: black;
+    color: white;
+}
+
+.subsectionfr-hvbtn:hover {
+    background-color: rgb(235, 235, 235);
+    color: black;
+}
+
+.getmozil-btnal {
+    margin-top: 25px;
+}
+
+.blogpost-img img {
+    height: 350px;
+}
+
+.sndblogpost-img img {
+    width: 545px;
+}
+
+.bot-img img {
+    height: 100px;
+    margin-top: 125px;
+}
+
+.mt-n1 {
+    margin-bottom: -20.25rem !important;
+}
+
+.dopdownsizer {
+    max-width: 500px !important;
+}
+
+.foter-mainimg img {
+    height: 30px;
+}
+
+.foter-img img {
+    height: 20px;
+    padding: px;
+}
+
+.fottoer-heart:hover i {
+    color: red !important;
+}
+
+footer {
+    color: white;
+}
+
+.breakage-slash {
+    height: .5px;
+    background-color: rgb(33, 33, 126);
+}
